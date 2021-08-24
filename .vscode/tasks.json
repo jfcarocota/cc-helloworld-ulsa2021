@@ -19,7 +19,7 @@
 				"$gcc"
 			],
 			"group": "build",
-			"detail": "compilador: \"C:\\Program Files (x86)\\mingw-w64\\mingw32\\bin\\g++.exe\""
+			"detail": "compilador: g++"
 		}
 	]
 }
